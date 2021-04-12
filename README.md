@@ -1,2 +1,5 @@
-# gitbook-plugin-block-code
-Plugin for formatting a block of code in gitbook.
+# BLOCK CODE PLUGIN
+
+> Plugin for formatting a block of code in gitbook.
+
+> + AT THE STAGE OF DEVELOPMENT
