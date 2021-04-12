@@ -8,7 +8,7 @@
 		"gitbook": "3.x.x"
 	},
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"lint": "eslint"
 	},
 	"repository": {
 		"type": "git",
@@ -32,7 +32,12 @@
 			"cloneButton": {
 				"type": "boolean",
 				"default": true,
-				"description": "..."
+				"description": "Button for copying the content of the block with the code."
+			},
+			"lineNumber": {
+				"type": "boolean",
+				"default": true,
+				"description": "Numbering each line of code."
 			},
 			"cloneButtonStyle": {
 				"type": "object",
@@ -42,7 +47,7 @@
 					"bg": "transparent",
 					"bg-hover": "transparent"
 				},
-				"description": "..."
+				"description": "Few styles for the copy button."
 			},
 			"cloneButtonIcon": {
 				"type": "object",
@@ -50,13 +55,13 @@
 					"clone": "fa-clone",
 					"check": "fa-check"
 				},
-				"description": "..."
-			},
-			"lineNumber": {
-				"type": "boolean",
-				"default": true,
-				"description": "Adds bumber for line."
+				"description": "Copy and copy context icons."
 			}
 		}
+	},
+	"devDependencies": {
+		"eslint": "^7.24.0",
+		"eslint-config-airbnb-base": "^14.2.1",
+		"eslint-plugin-import": "^2.22.1"
 	}
 }
