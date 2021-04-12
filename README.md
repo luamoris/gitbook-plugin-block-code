@@ -13,7 +13,7 @@
 
 <p align="center">
 	<h3 align="center">Example</h3>
-	<img src="./images/example.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/example.png?raw=true"/>
 </p>
 
 ### Summary
@@ -101,14 +101,14 @@ All basic settings are default.
 > #### `true`
 
 <p align="center">
-	<img src="./images/clone_true.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/clone_true.png?raw=true"/>
 </p>
 
 
 > #### `false`
 
 <p align="center">
-	<img src="./images/clone_false.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/clone_false.png?raw=true"/>
 </p>
 
 
@@ -123,19 +123,19 @@ All basic settings are default.
 > #### `true`
 
 <p align="center">
-	<img src="./images/numbers_true.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/numbers_true.png?raw=true"/>
 </p>
 
 > #### `console`
 
 <p align="center">
-	<img src="./images/numbers_console.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/numbers_console.png?raw=true"/>
 </p>
 
 > #### `false`
 
 <p align="center">
-	<img src="./images/numbers_false.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/numbers_false.png?raw=true"/>
 </p>
 
 
@@ -151,13 +151,13 @@ All basic settings are default.
 > #### `hover`
 
 <p align="center">
-	<img src="./images/style_hover.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/style_hover.png?raw=true"/>
 </p>
 
 > #### `active`
 
 <p align="center">
-	<img src="./images/style_active.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/style_active.png?raw=true"/>
 </p>
 
 
@@ -182,7 +182,7 @@ All basic settings are default.
 [1]: https://fontawesome.com/icons/align-justify?style=solid
 
 <p align="center">
-	<img src="./images/fa_align_justify.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/fa_align_justify.png?raw=true"/>
 </p>
 
 
@@ -190,7 +190,7 @@ All basic settings are default.
 [2]: https://fontawesome.com/icons/bullseye?style=solid
 
 <p align="center">
-	<img src="./images/fa_bullseye.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/fa_bullseye.png?raw=true"/>
 </p>
 
 
@@ -198,7 +198,7 @@ All basic settings are default.
 [3]: https://fontawesome.com/icons/clone?style=solid
 
 <p align="center">
-	<img src="./images/fa_clone.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/fa_clone.png?raw=true"/>
 </p>
 
 
@@ -206,7 +206,7 @@ All basic settings are default.
 [4]: https://fontawesome.com/icons/barn?style=solid
 
 <p align="center">
-	<img src="./images/fa_barn.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/fa_barn.png?raw=true"/>
 </p>
 
 
@@ -214,14 +214,23 @@ All basic settings are default.
 [5]: https://fontawesome.com/icons/cog?style=solid
 
 <p align="center">
-	<img src="./images/fa_cog.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/fa_cog.png?raw=true"/>
 </p>
+
+
+> #### [`fa-expande`][6]
+[6]: https://fontawesome.com/icons/cog?style=solid
+
+<p align="center">
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/fa_expand.png?raw=true"/>
+</p>
+
 
 > #### [`fa-paint-brush`][7]
 [7]: https://fontawesome.com/icons/paint-brush?style=solid
 
 <p align="center">
-	<img src="./images/fa_paint_brush.png"/>
+	<img src="https://github.com/luamoris/gitbook-plugin-block-code/blob/master/images/fa_paint_brush.png?raw=true"/>
 </p>
 
 ### Creators
